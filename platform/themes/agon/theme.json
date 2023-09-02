@@ -1,0 +1,8 @@
+{
+    "name": "Agon",
+    "namespace": "Theme\\Agon\\",
+    "description": "Agon - Multipurpose Agency theme",
+    "author": "Archi Elite",
+    "version": "1.0",
+    "required_plugins": []
+}
